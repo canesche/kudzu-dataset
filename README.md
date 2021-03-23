@@ -1,2 +1,1 @@
-# kudzu-dataset
-kudzu-dataset
+Kudzu images train and validation 
